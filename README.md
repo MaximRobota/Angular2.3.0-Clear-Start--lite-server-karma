@@ -1,10 +1,12 @@
-# Pluralsight: Code with John Papa and Ward Bell in Angular 2
+Angular2.3.0-Clear-Start--lite-server-karma
 
 ## Install npm packages
 
 Install the npm packages described in the `package.json` and verify that it works:
 
 ```bash
+git clone https://github.com/MaximRobota/Angular2.3.0-Clear-Start--lite-server-karma
+cd Angular2.3.0-Clear-Start--lite-server-karma
 npm install
 npm start
 ```
